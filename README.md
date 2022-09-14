@@ -1,5 +1,3 @@
-P a g e \| **1**
-
 > INCREASING THE EFFICIENCY OF REGENERATIVE BRAKING USING AN ALGORITHM
 >
 > **Jason Royan, Guthula Ravi Shankar, Vasanth Balaji, \* Dr. Ramesh
