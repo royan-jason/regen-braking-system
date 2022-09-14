@@ -184,6 +184,7 @@ energy efficiency.
 Weight Distribution
 
 ![This is an image](/media/image6.png)
+
 **Fig 3: Weight Distribution**
 
 From figure 3. We see that upon adding a flywheel to the read axle we
@@ -205,214 +206,70 @@ system.
 
 ![This is an image](/media/image7.png)
 
-> **D**
->
-> **G**
+**Fig 4: Centre of Gravity**
 
-**Weight**
-
-> **C**
->
-> Distance of CG from Front Axle Distance of CG from Rear Axle **Fig 4:
-> Centre of Gravity**
->
 > Similarly, from figure 4., we see the CG position is shifted
 > backwards. The flywheel available at the rear axle allows some of the
 > weight to be shifted from the front axle to the rear axle.
 
-+---------------------+---------------------+---------+
-| Fbf                 | Fbr                 | Fb      |
-+=====================+=====================+=========+
-| > 7148.845 7161.5   | > 3043.155 3108.9   | 10192   |
-| >                   | >                   |         |
-| > 7174.156 7186.811 | > 3174.644 3240.389 | 10270.4 |
-|                     |                     |         |
-|                     |                     | 10348.8 |
-|                     |                     |         |
-|                     |                     | 10427.2 |
-+---------------------+---------------------+---------+
+| Fbf      | Fbr      | Fb      |
+|----------|----------|---------|
+| 7148.845 | 3043.155 | 10192   |
+| 7161.5   | 3108.9   | 10270.4 |
+| 7174.156 | 3174.644 | 10348.8 |
+| 7186.811 | 3240.389 | 10427.2 |
 
 > **Table 3: Locking Force (Braking)**
->
-> Brake force distribution vs Weight
 
-**e**
 
-**c**
-
-**r**
-
-**o**
-
-**F**
-
-**e**
-
-**k**
-
-**a**
-
-**r**
-
-**B**
-
-8000 6000 4000 2000
-
-7148.845354 7161.500472 7174.155591 7186.810709
-
-3043.154646 3108.899528 3174.644409 3240.389291
-
-1295 1300 1305 1310 1315 1320 1325 1330 1335 **Weight**
-
-Fbf Fbr
+![This is an image](/media/image9.png)
 
 **Fig 5: Braking Force wrt Weight**
 
-+---------+---------+
-| > a/g f | > a/g r |
-+=========+=========+
-| 0.82    | 0.82    |
-|         |         |
-| 0.82    | 0.82    |
-|         |         |
-| 0.82    | 0.82    |
-|         |         |
-| 0.82    | 0.82    |
-+---------+---------+
+| a/g f | a/g r |
+|-------|-------|
+| 0.82  | 0.82  |
+| 0.82  | 0.82  |
+| 0.82  | 0.82  |
+| 0.82  | 0.82  |
 
 **Table 4: Rate of Deacceleration**
 
-P a g e \| **6**
 
-+---------+---------+---------+---------+---------+---------+---------+
-| Vel     | Vel m/s | KE      | s       | T       | ER      | PR      |
-| km/hr   |         |         |         |         |         |         |
-+=========+=========+=========+=========+=========+=========+=========+
-| 30      | > 8     | > 4     | > 2     | > 3     | > 7     | 25.9075 |
-|         | .333333 | 5486.11 | 5.42885 | .051463 | 9055.77 |         |
-| 40      | > 1     | >       | > 2     | > 2     | > 8     | > 3     |
-|         | 1.11111 | 80864.2 | 8.87352 | .598617 | 9764.89 | 4.54333 |
-| 50      | > 1     | >       | > 3     | > 2     | > 1     | > 4     |
-|         | 3.88889 | > 1     | 3.30237 | .397771 | 03533.8 | 3.17917 |
-| 60      | > 1     | 26350.3 | > 3     | > 2     | > 1     | >       |
-|         | 6.66667 | > 1     | 8.71542 | .322925 | 20362.4 |  51.815 |
-| 70      | > 1     | 81944.4 | > 4     | > 2     | > 1     | >       |
-|         | 9.44444 | > 2     | 5.11265 | .320079 | 40250.7 | > 6     |
-| 80      | > 2     | 47646.6 | > 5     | > 2     | > 1     | 0.45083 |
-|         | 2.22222 | > 3     | 2.49408 | .362234 | 63198.8 | > 4     |
-| 90      | > 25    | 23456.8 | > 6     | > 2     | > 1     | 9.08667 |
-|         |         | >       | 0.85969 | .434388 | 89206.7 | >       |
-|         |         |  409375 |         |         |         | 77.7225 |
-+---------+---------+---------+---------+---------+---------+---------+
+
+| Vel km/hr | Vel m/s  | KE       | s        | T        | ER       | PR       |
+|-----------|----------|----------|----------|----------|----------|----------|
+| 30        | 8.333333 | 45486.11 | 25.42885 | 3.051463 | 79055.77 | 25.9075  |
+| 40        | 11.11111 | 80864.2  | 28.87352 | 2.598617 | 89764.89 | 34.54333 |
+| 50        | 13.88889 | 126350.3 | 33.30237 | 2.397771 | 103533.8 | 43.17917 |
+| 60        | 16.66667 | 181944.4 | 38.71542 | 2.322925 | 120362.4 | 51.815   |
+| 70        | 19.44444 | 247646.6 | 45.11265 | 2.320079 | 140250.7 | 60.45083 |
+| 80        | 22.22222 | 323456.8 | 52.49408 | 2.362234 | 163198.8 | 49.08667 |
+| 90        | 25       | 409375   | 60.85969 | 2.434388 | 189206.7 | 77.7225  |
+
+
 
 > **Table 5: Value Table for Flywheel of 10kg.**
->
-> KE, Stopping Distance and Time VS Speed
->
-> 450
->
-> 400
->
-> 350
->
-> 300
 
-T
 
-,
+![This is an image](/media/image10.png)
 
-s
-
-,
-
-E
-
-K
-
-)
-
-W
-
-k
-
-(
-
-e
-
-r
-
-w
-
-o
-
-P
-
-,
-
-)
-
-J
-
-k
-
-(
-
-y
-
-g
-
-r
-
-e
-
-n
-
-E
-
-250
-
-200
-
-150
-
-100
-
-50
-
-0
-
-0 20 40 60 80 100 Speed
-
-KE s T
 
 **Fig 6: KE, Stopping Distance and Time VS Speed**
 
-Energy, Power Recoverable VS Speed
 
-200
+![This is an image](/media/image11.png)
 
-150
-
-100
-
-50
-
-0
-
-0 20 40 60 80 100 Speed
-
-ER PR
 
 **Fig 7: Energy, Power Recoverable VS Speed**
 
 > The reason we chose a ring type flywheel instead of the disc type of
 > flywheel is because of the energy density of the ring type flywheel
 
-P a g e \| **7**
 
-> ![](vertopal_b8410a002b4f4e4ea75a18e1748dfa9f/media/image3.png){width="4.766666666666667in"
-> height="2.6333333333333333in"}**Figure 5:** Flywheel KE
->
+![This is an image](/media/image3.png)
+
+
 > **[Regenerative Braking Algorithm]{.ul}**
 >
 > This algorithm gets its inputs from the speed sensors and brake pedal
@@ -426,51 +283,50 @@ P a g e \| **7**
 > **[Algorithm for regenerative braking using C++]{.ul}**
 
 \#include\<iostream\>
-
+>
 > using namespace std;
 >
 > int main()
 >
 > {
-
-int Tem,Tumax,Tem_r,Pge_m,Pch_m,nem;
-
-Pge_m=3000;
-
-Pch_m=20000;
-
-cout\<\<\"RPM of Electric Motor: \";
-
+>
+>int Tem,Tumax,Tem_r,Pge_m,Pch_m,nem;
+>
+>Pge_m=3000;
+>
+>Pch_m=20000;
+>
+>cout\<\<\"RPM of Electric Motor: \";
+>
 > cin\>\>nem;
 >
 > if(nem\<=1500)
-
-Tem=Pge_m\*9550/1500;
-
-else
-
+>
+>Tem=Pge_m\*9550/1500;
+>
+>else
+>
 > Tem=Pge_m\*9550/nem;
-
-cout\<\<\"Torque of Motor: \"\<\<Tem\<\<\"\\n\";
-
+>
+>cout\<\<\"Torque of Motor: \"\<\<Tem\<\<\"\\n\";
+>
 > Tumax=Pch_m\*9550/nem;
-
-cout\<\<\"Torque from Ultracapacitor: \"\<\<Tumax\<\<\"\\n\";
-
-int w1,u,vs;
-
-float w2,wb;
-
-cout\<\<\"U: \";
-
+>
+>cout\<\<\"Torque from Ultracapacitor: \"\<\<Tumax\<\<\"\\n\";
+>
+>int w1,u,vs;
+>
+>float w2,wb;
+>
+>cout\<\<\"U: \";
+>
 > cin\>\>u;
 >
 > if(u\>=30 && u\<46)
 >
 > w1=1;
-
-P a g e \| **8**
-
+>
+>
 > else if(u\>=46 && u\<48)
 >
 > w1=-0.5\*u+24;
@@ -499,53 +355,53 @@ w2=0.05\*vs-0.5;
 
 else
 
-w2=1;
-
-cout\<\<\"Weight factor of speed: \"\<\<w2\<\<\"\\n\";
-
+>w2=1;
+>
+>cout\<\<\"Weight factor of speed: \"\<\<w2\<\<\"\\n\";
+>
 > wb=(float)w1\*w2;
 >
 > cout\<\<\"Weight factor: \"\<\<wb\<\<\"\\n\";
+>
+>if(Tumax\<Tem\*wb)
 
-if(Tumax\<Tem\*wb)
+>Tem_r=Tumax;
 
-Tem_r=Tumax;
+>else
 
-else
+>Tem_r=Tem\*wb;
 
-Tem_r=Tem\*wb;
+>cout\<\<\"Torque Regenerative: \"\<\<Tem_r\<\<\"\\n\";
 
-cout\<\<\"Torque Regenerative: \"\<\<Tem_r\<\<\"\\n\";
+>float Freg,r,Fb,Fflock,Frlock,mu,Fdem,F,Fh,Fhyd;
 
-float Freg,r,Fb,Fflock,Frlock,mu,Fdem,F,Fh,Fhyd;
+>float z,vsf,vsi,dt,m,g,a,b,h,W,Wf,Wr,s,Er,Eb,KE;
 
-float z,vsf,vsi,dt,m,g,a,b,h,W,Wf,Wr,s,Er,Eb,KE;
+>;
 
-;
+>r=0.4;
 
-r=0.4;
+>Freg=Tem_r/r;
 
-Freg=Tem_r/r;
+>cout\<\<\"Force Regenertive: \"\<\<Freg\<\<\"\\n\";
 
-cout\<\<\"Force Regenertive: \"\<\<Freg\<\<\"\\n\";
+>cout\<\<\"Velocity at braking: \";
 
-cout\<\<\"Velocity at braking: \";
+>cin\>\>vsf;
 
-cin\>\>vsf;
+>cout\<\<\"\\nVelocity after braking: \";
 
-cout\<\<\"\\nVelocity after braking: \";
+>cin\>\>vsi;
 
-cin\>\>vsi;
+>a=1.198;
 
-a=1.198;
+>b=1.342;
 
-b=1.342;
+>h=0.5;
 
-h=0.5;
+>m=1310;
 
-m=1310;
-
-W=12838;
+>W=12838;
 
 g=9.81;
 
@@ -561,7 +417,6 @@ mu=2.943;
 
 Fflock=mu\*Wf;
 
-P a g e \| **9**
 
 Frlock=mu\*Wr;
 
@@ -612,17 +467,14 @@ return 0;
 > }
 >
 > **3. [SIMULINK Model for Flywheel System]{.ul}**
->
-> A SIMULINK model has been constructed to plot the change in velocity
-> as the KERS system is activated. A vehicle body block was used to
-> measure the longitudinal velocity. A quarter car model was adopted for
-> modelling KERS system.
->
-> ![](vertopal_b8410a002b4f4e4ea75a18e1748dfa9f/media/image4.png){width="6.326388888888889in"
-> height="3.1729166666666666in"}Fig. 6 -- Model of KERS System using
-> Simulink
 
-P a g e \| **10**
+
+![This is an image](/media/image4.png)
+
+
+**Fig. 6 -- Model of KERS System using Simulink**
+
+
 
 > An inertia block represents the flywheel coupled at the rear axle. We
 > have used Tresca's Magic tire formula while giving the vehicle's
@@ -635,10 +487,9 @@ P a g e \| **10**
 >
 > Simulink converter .
 
-![](vertopal_b8410a002b4f4e4ea75a18e1748dfa9f/media/image5.png){width="2.920138888888889in"
-height="2.0658333333333334in"}
+![This is an image](/media/image5.png)
 
-Fig. 7 -- Output of velocity
+**Fig. 7 -- Output of velocity**
 
 > From the output graph we can see that velocity gradually decreases
 > over time. The reason why the velocity returns negative is because
