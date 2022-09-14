@@ -76,9 +76,6 @@ energy efficiency.
 > electric vehicles, the power flow is reversed through the entire
 > powertrain, whereas in part-electric vehicles power flow is reversed
 > through only the electric portion of the [powertrain.]{.ul}
-
-P a g e \| **2**
-
 > **[Mechanical regeneration properties]{.ul}**
 >
 > Mechanical regeneration (known as M-KERS, or Mechanical Kinetic Energy
@@ -140,8 +137,10 @@ P a g e \| **2**
 > • Rate of Deceleration.
 >
 > • Wheel locking.
-/media/image1.png
-/media/image2.png
+![This is an image](/media/image1.png)
+![This is an image](/media/image2.png)
+
+
 >   **Figure.2.** Regenerative
 > Motor/Generator Flowchart
 >
@@ -157,9 +156,6 @@ P a g e \| **2**
 > allows for a comparatively greater energy recovery, while not majorly
 > disturbing other factors like: rate of deceleration, stopping distance
 > and time.
-
-P a g e \| **4**
-
 > **[Design of Flywheel]{.ul}**
 >
 > ● Kinetic Energy, KE =(½)\*I\*Ꞷ^2^
@@ -187,7 +183,7 @@ P a g e \| **4**
 
 Weight Distribution
 
-/media/image6.png
+![This is an image](/media/image6.png)
 **Fig 3: Weight Distribution**
 
 From figure 3. We see that upon adding a flywheel to the read axle we
@@ -197,68 +193,17 @@ we reduce the load the motor generator has to carry while regenerating
 by transferring some of that load to the rear axle to be use by the KERS
 system.
 
-+------+------+----------+----------+
-| > W  | > L  | > a      | > b      |
-+======+======+==========+==========+
+| W    | L    | a        | b        |
+|------|------|----------|----------|
 | 1300 | 2.54 | 1.1684   | 1.3716   |
-|      |      |          |          |
 | 1310 | 2.54 | 1.17887  | 1.36113  |
-|      |      |          |          |
 | 1320 | 2.54 | 1.189182 | 1.350818 |
-|      |      |          |          |
 | 1330 | 2.54 | 1.199338 | 1.340662 |
-+------+------+----------+----------+
 
 > **Table 2: Centre of Gravity Location**
 
-**s**
 
-**e**
-
-**l**
-
-**x**
-
-**A**
-
-**m**
-
-**o**
-
-**r**
-
-**f**
-
-**e**
-
-**c**
-
-**n**
-
-**a**
-
-**t**
-
-**s**
-
-**i**
-
-1.4
-
-1.35 1.3
-
-1.25 1.2
-
-1.15
-
-Variation of CG distance with Weight ^1.3716\ 1.361129771\ 1.350818182^
-1.340661654
-
-~1.1684\ 1.178870229\ 1.189181818~ 1.199338346
-
-P a g e \| **5**
-
-1295 1300 1305 1310 1315 1320 1325 1330 1335
+![This is an image](/media/image7.png)
 
 > **D**
 >
