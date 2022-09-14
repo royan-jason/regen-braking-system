@@ -21,9 +21,7 @@ results show that the proposed algorithm can successfully recover and
 store energy at high and low speeds, thereby improving performance and
 energy efficiency.
 
-> **[Keywords]{.ul}:** regenerative braking, blending control,
-> algorithm, energy recovery, KERS, motor/generator
->
+
 > **1. [Introduction]{.ul}**
 >
 > There has been an increasing trend and focus towards the electric
