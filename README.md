@@ -140,15 +140,9 @@ P a g e \| **2**
 > • Rate of Deceleration.
 >
 > • Wheel locking.
-
-P a g e \| **3**
-
-> ![](vertopal_b8410a002b4f4e4ea75a18e1748dfa9f/media/image1.png){width="3.808333333333333in"
-> height="3.3993055555555554in"}**Figure.1**. Regenerative Flywheel
-> Flowchart
->
-> ![](vertopal_b8410a002b4f4e4ea75a18e1748dfa9f/media/image2.png){width="5.7747222222222225in"
-> height="3.734722222222222in"}**Figure.2.** Regenerative
+/media/image1.png
+/media/image2.png
+>   **Figure.2.** Regenerative
 > Motor/Generator Flowchart
 >
 > **2. [Methodology]{.ul}**
@@ -182,62 +176,18 @@ P a g e \| **4**
 >
 > ● KE = 22.959 kJ
 
-+------+-----+-----+-------+
 | W    | Wf  | Wr  | Fw    |
-+======+=====+=====+=======+
+|------|-----|-----|-------|
 | 1300 | 702 | 598 | 12740 |
-|      |     |     |       |
 | 1310 | 702 | 608 | 12838 |
-|      |     |     |       |
 | 1320 | 702 | 618 | 12936 |
-|      |     |     |       |
 | 1330 | 702 | 628 | 13034 |
-+------+-----+-----+-------+
 
 > **Table 1: Weight Distribution on Axles**
 
 Weight Distribution
 
-> 750
->
-> s
-
-e
-
-l
-
-x
-
-A
-
-n
-
-o
-
-t
-
-h
-
-g
-
-i
-
-e
-
-W
-
-700
-
-650
-
-600
-
-550
-
-1295 1300 1305 1310 1315 1320 1325 1330 1335 Vehicle Weight
-
-Wf Wr
-
+/media/image6.png
 **Fig 3: Weight Distribution**
 
 From figure 3. We see that upon adding a flywheel to the read axle we
