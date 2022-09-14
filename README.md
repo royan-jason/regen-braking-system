@@ -3,7 +3,7 @@
 > **Jason Royan, Guthula Ravi Shankar, Vasanth Balaji, \* Dr. Ramesh
 > Kumar. C**
 >
-> **[Abstract]{.ul}**
+ **Abstract**
 
 A regenerative braking algorithm is proposed to make maximum use of
 regenerative brake for reducing fuel consumption. In the regenerative
